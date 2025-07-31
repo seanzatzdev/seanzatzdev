@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @seanzatzdev
-- 🎓 I'm a Computer Science major at Princeton University.
-- 👀 I’m interested in distributed systems, web development, blockchain, and security
-- 🌱 I’m currently learning Svelte and Stripe
+- I currently work at Elastic, and previously worked at AWS.
+- 🎓 I graduated from Princeton University with a BSE in Computer Science.
+- 👀 I’m interested in distributed systems, blockchain, and security
 - 📫 How to reach me: 
-      *  szatz@princeton.edu
-      *  https://www.linkedin.com/in/sean-zatz-8247a2167/
+      *  seanzatz01@gmail.com
+      *  https://www.linkedin.com/in/sean-zatz
 
 
